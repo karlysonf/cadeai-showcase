@@ -25,8 +25,10 @@ O **CadeAi** nasceu de um problema simples do dia a dia: encontrar rápido o que
 
 | Tela de busca | Mapa interativo | Perfil e favoritos |
 |:---:|:---:|:---:|
-| ![busca](link-do-print-1) | ![mapa](link-do-print-2) | ![favoritos](link-do-print-3) |
 
+<img width="1090" height="752" alt="Captura de Tela 2026-09-08 às 16 21 15" src="https://github.com/user-attachments/assets/25090e9e-d01f-42e7-9d98-39acc58a21ee" />
+<img width="1096" height="781" alt="Captura de Tela 2026-09-08 às 16 21 03" src="https://github.com/user-attachments/assets/c66f5069-1d14-4ece-8bae-19fcc8a25a0b" />
+<img width="1368" height="764" alt="Captura de Tela 2026-09-08 às 16 20 42" src="https://github.com/user-attachments/assets/48763190-2e27-4d8a-9269-13cd8c256bf8" />
 
 ---
 
