@@ -1,4 +1,4 @@
-# 📍 PertoAqui
+# 📍 CadeAi
 
 > Sistema web para busca de estabelecimentos por proximidade — lanchonetes, petshops, farmácias, supermercados e mais.
 
@@ -8,7 +8,7 @@
 
 ## 🎯 Sobre o projeto
 
-O **PertoAqui** nasceu de um problema simples do dia a dia: encontrar rápido o que você precisa perto de você, sem precisar comparar três apps diferentes. O sistema permite buscar estabelecimentos por categoria e proximidade geográfica, exibindo resultados num mapa interativo com avaliações reais de outros usuários.
+O **CadeAi** nasceu de um problema simples do dia a dia: encontrar rápido o que você precisa perto de você, sem precisar comparar três apps diferentes. O sistema permite buscar estabelecimentos por categoria e proximidade geográfica, exibindo resultados num mapa interativo com avaliações reais de outros usuários.
 
 **Principais funcionalidades:**
 - 🔍 Busca por categoria (lanchonete, petshop, farmácia, supermercado, etc.) e raio de distância
